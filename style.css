@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #1a000a;
+  font-family: Georgia, serif;
+  color: #fff;
+}
+
+canvas {
+  display: block;
+}
+
+/* Overlay del poema */
+.poema-overlay {
+  position: absolute;
+  inset: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0,0,0,0.7);
+  padding: 40px;
+}
+
+/* Carta estilo papel */
+.carta {
+  background: #fff8f0;
+  border: 2px solid #ffb3c6;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+  max-width: 600px;
+  padding: 30px;
+  text-align: center;
+  position: relative;
+}
+
+.carta::before {
+  content: "💌";
+  font-size: 2rem;
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.message-text {
+  font-size: 1.2rem;
+  color: #3d1f23;
+  white-space: pre-line;
+  line-height: 1.6;
+}
