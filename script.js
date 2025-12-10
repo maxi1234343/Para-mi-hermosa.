@@ -105,19 +105,17 @@ canvas.addEventListener("click",()=>{
 // ---------- Poema animado ----------
 const poema = `Un mes no es tiempo para el mundo,
 pero fue suficiente para mí
-para saber que tu amor
-no llegó para pasar.
+para entender cuanto te amo.
 
 Treinta días aprendiendo tu nombre
 en cada gesto,
 descubriendo que amar
 también es cuidar, esperar, quedarme.
 
-Lucía,
-en un mes sembraste en mi vida
+En un mes sembraste en mi vida
 una calma que no conocía,
-y aunque sea solo el comienzo,
-yo quiero seguir contando el tiempo
+y aunque solo es el comienzo,
+quiero seguir contando el tiempo
 de mes en mes,
 de abrazo en abrazo,
 de vos en vos.
@@ -127,8 +125,7 @@ no imagino lo que nos espera
 cuando el amor tenga años
 y siga eligiéndote como hoy.
 
-Con amor y siempre tuyo,
-Maxi.`;
+Con Amor Facu.`;
 
 function showPoema(){
   const overlay = document.getElementById("poema");
