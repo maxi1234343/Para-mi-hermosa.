@@ -116,16 +116,13 @@ En un mes sembraste en mi vida
 una calma que no conocía,
 y aunque solo es el comienzo,
 quiero seguir contando el tiempo
-de mes en mes,
-de abrazo en abrazo,
-de vos en vos.
 
 Porque si el primer mes fue así de real,
 no imagino lo que nos espera
 cuando el amor tenga años
 y siga eligiéndote como hoy.
 
-Con Amor Facu.`;
+Con Amor Facu ❤️`;
 
 function showPoema(){
   const overlay = document.getElementById("poema");
