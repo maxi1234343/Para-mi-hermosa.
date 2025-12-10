@@ -103,22 +103,31 @@ canvas.addEventListener("click",()=>{
 });
 
 // ---------- Poema animado ----------
-const poema = `Eres mi luz en la penumbra,
-mi esperanza en cada día,
-la razón por la que sonrío
-y el motivo de mi poesía.
+const poema = `Un mes no es tiempo para el mundo,
+pero fue suficiente para mí
+para saber que tu amor
+no llegó para pasar.
 
-Antonella, tu nombre es canto,
-melodía que nunca termina,
-latido que guarda mi pecho
-como rosa que siempre germina.
+Treinta días aprendiendo tu nombre
+en cada gesto,
+descubriendo que amar
+también es cuidar, esperar, quedarme.
 
-Si el tiempo apaga las horas
-y la distancia se hace cruel,
-mi amor vencerá las sombras
-y volverá a ti, mi miel.
+Lucía,
+en un mes sembraste en mi vida
+una calma que no conocía,
+y aunque sea solo el comienzo,
+yo quiero seguir contando el tiempo
+de mes en mes,
+de abrazo en abrazo,
+de vos en vos.
 
-Con cariño y siempre tuyo,
+Porque si el primer mes fue así de real,
+no imagino lo que nos espera
+cuando el amor tenga años
+y siga eligiéndote como hoy.
+
+Con amor y siempre tuyo,
 Maxi.`;
 
 function showPoema(){
